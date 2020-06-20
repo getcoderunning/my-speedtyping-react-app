@@ -1,2 +1,2 @@
-# my-speedtyping-react-app
+# My SpeedTyping React App
 Another bootcamp exercise app in React
